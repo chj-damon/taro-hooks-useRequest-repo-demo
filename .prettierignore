@@ -1,0 +1,14 @@
+*.less
+*.module.less
+*.css
+*.scss
+*.sass
+*.json
+*.js
+*.md
+*.txt
+*.xml
+*.yml
+*.yaml
+*.conf
+*.ini

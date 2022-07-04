@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "awesome-forestry-miniprogram",
+  "description": "智慧林业",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
